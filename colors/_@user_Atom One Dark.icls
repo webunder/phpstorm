@@ -4,7 +4,7 @@
     <property name="created">2018-08-28T16:16:16</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.2.0.0</property>
-    <property name="modified">2018-09-05T10:57:01</property>
+    <property name="modified">2018-09-05T11:01:22</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -14,7 +14,7 @@
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
   </font>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
@@ -649,7 +649,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="59626f" />
+        <option name="FOREGROUND" value="2f333d" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -1216,12 +1216,8 @@
       </value>
     </option>
     <option name="HTML_CODE">
-      <value />
-    </option>
-    <option name="HTML_COMMENT">
       <value>
-        <option name="FOREGROUND" value="59626f" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="2f333d" />
       </value>
     </option>
     <option name="HTML_ENTITY_REFERENCE">
@@ -4917,7 +4913,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_COMMENT">
       <value>
-        <option name="FOREGROUND" value="518571" />
+        <option name="FOREGROUND" value="896e57" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="d19a66" />
         <option name="EFFECT_TYPE" value="1" />
@@ -16413,7 +16409,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_COMMENT">
       <value>
-        <option name="FOREGROUND" value="894b5a" />
+        <option name="FOREGROUND" value="757a86" />
         <option name="BACKGROUND" value="3e4451" />
         <option name="FONT_TYPE" value="2" />
       </value>
@@ -23441,7 +23437,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_COMMENT">
       <value>
-        <option name="FOREGROUND" value="894b5a" />
+        <option name="FOREGROUND" value="757a86" />
         <option name="BACKGROUND" value="3e4451" />
         <option name="FONT_TYPE" value="2" />
       </value>
@@ -30367,7 +30363,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_COMMENT">
       <value>
-        <option name="FOREGROUND" value="894b5a" />
+        <option name="FOREGROUND" value="757a86" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -36957,7 +36953,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_COMMENT">
       <value>
-        <option name="FOREGROUND" value="894b5a" />
+        <option name="FOREGROUND" value="757a86" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -43649,7 +43645,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_COMMENT">
       <value>
-        <option name="FOREGROUND" value="634a6f" />
+        <option name="FOREGROUND" value="4d789f" />
         <option name="BACKGROUND" value="3e4451" />
         <option name="FONT_TYPE" value="2" />
       </value>
@@ -45630,7 +45626,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_STRIKETHROUGH_TEXT_BOLD_TEXT_UNDERLINE_TEXT_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_ISSUE_MARKER">
       <value>
-        <option name="FOREGROUND" value="8a8857" />
+        <option name="FOREGROUND" value="8a8757" />
         <option name="BACKGROUND" value="3e4451" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="546276" />
@@ -47298,7 +47294,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_STRIKETHROUGH_TEXT_UNDERLINE_TEXT_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT_ISSUE_MARKER">
       <value>
-        <option name="FOREGROUND" value="8a8857" />
+        <option name="FOREGROUND" value="8a8757" />
         <option name="BACKGROUND" value="3e4451" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="546276" />
@@ -50677,7 +50673,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_COMMENT">
       <value>
-        <option name="FOREGROUND" value="634a6f" />
+        <option name="FOREGROUND" value="4d789f" />
         <option name="BACKGROUND" value="3e4451" />
         <option name="FONT_TYPE" value="2" />
       </value>
@@ -52658,7 +52654,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_STRIKETHROUGH_TEXT_BOLD_TEXT_UNDERLINE_TEXT_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_ISSUE_MARKER">
       <value>
-        <option name="FOREGROUND" value="8a8857" />
+        <option name="FOREGROUND" value="8a8757" />
         <option name="BACKGROUND" value="3e4451" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="546276" />
@@ -54326,7 +54322,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_STRIKETHROUGH_TEXT_UNDERLINE_TEXT_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT_ISSUE_MARKER">
       <value>
-        <option name="FOREGROUND" value="8a8857" />
+        <option name="FOREGROUND" value="8a8757" />
         <option name="BACKGROUND" value="3e4451" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="546276" />
@@ -57696,7 +57692,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_COMMENT">
       <value>
-        <option name="FOREGROUND" value="59626f" />
+        <option name="FOREGROUND" value="2f333d" />
         <option name="BACKGROUND" value="454500" />
         <option name="FONT_TYPE" value="2" />
       </value>
@@ -64709,7 +64705,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_COMMENT">
       <value>
-        <option name="FOREGROUND" value="59626f" />
+        <option name="FOREGROUND" value="2f333d" />
         <option name="BACKGROUND" value="383838" />
         <option name="FONT_TYPE" value="2" />
       </value>
